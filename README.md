@@ -20,3 +20,21 @@ It includes understanding user expectations, system functionality, and constrain
 
 3. **Improves Project Planning**  
    Accurate requirements help in better estimation of project scope, timelines, and resources.
+
+   ## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**  
+  Collect information from stakeholders through interviews, surveys, observation, and documentation.
+
+- **Requirement Elicitation**  
+  Actively extract and clarify needs through workshops, brainstorming sessions, and use case modeling.
+
+- **Requirement Documentation**  
+  Record the gathered requirements clearly using SRS (Software Requirements Specification) or user stories.
+
+- **Requirement Analysis and Modeling**  
+  Analyze feasibility, conflicts, and completeness; use models like flowcharts, use case diagrams, and data flow diagrams.
+
+- **Requirement Validation**  
+  Confirm with stakeholders that the documented requirements accurately reflect their needs.
+
