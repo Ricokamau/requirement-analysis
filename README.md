@@ -58,4 +58,13 @@ These define how the system performs.
 - The booking service must be available 99.9% of the time.
 - User data must be encrypted using AES-256.
 
+  ## Use Case Diagrams
+
+Use case diagrams visually represent how different users (actors) interact with the system's functionalities (use cases). They help in identifying system requirements and planning development tasks efficiently.
+
+### Booking System Use Case Diagram
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
+
+
 
