@@ -38,3 +38,24 @@ It includes understanding user expectations, system functionality, and constrain
 - **Requirement Validation**  
   Confirm with stakeholders that the documented requirements accurately reflect their needs.
 
+  ## Types of Requirements
+
+### Functional Requirements
+
+These define what the system should do.
+
+**Examples for Booking Management System:**
+- Users can search available rooms by date.
+- Admins can add, update, or delete listings.
+- Users can make bookings and receive confirmations.
+
+### Non-functional Requirements
+
+These define how the system performs.
+
+**Examples:**
+- The system should load pages within 3 seconds.
+- The booking service must be available 99.9% of the time.
+- User data must be encrypted using AES-256.
+
+
